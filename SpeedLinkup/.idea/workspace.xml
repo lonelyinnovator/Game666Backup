@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42976d20-e16f-48cd-bc7b-a74c089a3a4e" name="Default Changelist" comment="" />
+    <list default="true" id="42976d20-e16f-48cd-bc7b-a74c089a3a4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ui/java/DrawGameMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ui/java/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ui/java/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ui/java/TestMainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpeedLinkup/com/speedLinkup/java/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speedLinkup/java/Test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +38,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1lyEWTR92e3tPLwqdDwwUo0vARy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestMainFrame">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.speedLinkup.java.Test" />
       <module name="SpeedLinkup" />
@@ -43,8 +68,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ui.java.TestMainFrame" />
+      <module name="SpeedLinkup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ui.java.TestUi" />
+      <module name="SpeedLinkup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ui.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMainFrame" />
+        <item itemvalue="Application.TestUi" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -59,29 +112,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608560961762</updated>
-      <workItem from="1608560963476" duration="696000" />
+      <workItem from="1608560963476" duration="2887000" />
+      <workItem from="1608566127229" duration="112000" />
+      <workItem from="1608566255727" duration="4971000" />
+      <workItem from="1608599335664" duration="4493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1608561018466">
+    <state x="740" y="318" key="FileChooserDialogImpl" timestamp="1608566820362">
       <screen x="0" y="47" width="1920" height="1033" />
     </state>
-    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.47.1920.1033@0.47.1920.1033" timestamp="1608561018466" />
-    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1608561018466">
+    <state x="740" y="318" key="FileChooserDialogImpl/0.47.1920.1033@0.47.1920.1033" timestamp="1608566820362" />
+    <state width="1877" height="122" key="GridCell.Tab.0.bottom" timestamp="1608603936775">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1608603936775" />
+    <state width="1877" height="122" key="GridCell.Tab.0.center" timestamp="1608603936775">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1608603936775" />
+    <state width="1877" height="122" key="GridCell.Tab.0.left" timestamp="1608603936775">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1608603936775" />
+    <state width="1877" height="122" key="GridCell.Tab.0.right" timestamp="1608603936775">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1877" height="122" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1608603936775" />
+    <state x="461" y="205" key="SettingsEditor" timestamp="1608566165885">
       <screen x="0" y="47" width="1920" height="1033" />
     </state>
-    <state width="1877" height="258" key="GridCell.Tab.0.center/0.47.1920.1033@0.47.1920.1033" timestamp="1608561018466" />
-    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1608561018465">
-      <screen x="0" y="47" width="1920" height="1033" />
-    </state>
-    <state width="1877" height="258" key="GridCell.Tab.0.left/0.47.1920.1033@0.47.1920.1033" timestamp="1608561018465" />
-    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1608561018466">
-      <screen x="0" y="47" width="1920" height="1033" />
-    </state>
-    <state width="1877" height="258" key="GridCell.Tab.0.right/0.47.1920.1033@0.47.1920.1033" timestamp="1608561018466" />
+    <state x="461" y="205" key="SettingsEditor/0.47.1920.1033@0.47.1920.1033" timestamp="1608566165885" />
   </component>
 </project>
